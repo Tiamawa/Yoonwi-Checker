@@ -1,0 +1,4 @@
+[0m[[0m[33mwarn[0m] [0m[0mF:\AWA TIAM\PROJETS SONATEL\projets\DIC3\Checker\src\main\scala\com\sonatel\yoonwi\launcher\Checker.scala:5:36: imported `Checker' is permanently hidden by definition of object Checker in package launcher[0m
+[0m[[0m[33mwarn[0m] [0m[0mimport com.sonatel.yoonwi.classes.{Checker, Inserter, Reader}[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                   ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
